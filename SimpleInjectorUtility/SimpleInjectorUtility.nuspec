@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<package>
+  <metadata>
+    <id>SimpleInjectorUtility</id>
+    <version>1.0.1</version>
+    <title>SimpleInjectorUtility</title>
+    <authors>Alexandre Brandao Lustosa</authors>
+    <owners>Alexandre Brandao Lustosa</owners>
+    <licenseUrl>https://github.com/alexandrebl/RedisCacheEventClient</licenseUrl>
+    <projectUrl>https://github.com/alexandrebl/RedisCacheEventClient</projectUrl>
+    <iconUrl>https://github.com/alexandrebl/RedisCacheEventClient</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>SimpleInjector Utility</description>
+    <releaseNotes>SimpleInjector Utility Library</releaseNotes>
+    <copyright>Copyright 2017</copyright>
+    <tags>SimpleInjector Utility Dependency Injection Injector IoC DI Container</tags>
+    <dependencies>
+      <dependency id="UtilityHelperTools" version="1.0.2" />
+	  <dependency id="SimpleInjector" version="4.0.3" />
+	  <dependency id="Newtonsoft.Json" version="10.0.2" />
+    </dependencies>
+  </metadata>
+</package>
