@@ -6,7 +6,7 @@ namespace SimpleInjectorUtility {
     /// <summary>
     /// Dependency Injection controller
     /// </summary>
-    public class DependecyInjection {
+    public static class DependecyInjection {
 
         /// <summary>
         /// Get container instance
