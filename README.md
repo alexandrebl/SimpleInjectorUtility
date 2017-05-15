@@ -1,2 +1,0 @@
-# SimpleInjectorUtility
-SimpleInjector utility library
